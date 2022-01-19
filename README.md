@@ -1,6 +1,7 @@
 # k-means-Clustering-Final-Project 
 Final Project for CSC 535 Data Mining  
-k-means Clustering Algorithm made from scratch 
+k-means Clustering Algorithm made from scratch  
+Created with Python/Jupyter Notebook
 
 ## Database
 Data Science and STEM Salaries  
